@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 96" role="img" aria-label="Kalam and Kami — Japanese stationery">
-  <circle cx="44" cy="44" r="25" fill="none" stroke="#2B3A67" stroke-width="2.6"/>
-  <path d="M44 25.5 L57 44.5 L50.5 62.5 L37.5 62.5 L31 44.5 Z" fill="#2B3A67"/>
-  <circle cx="44" cy="41" r="4.1" fill="#F9F8F5"/>
-  <path d="M44 45.6 L44 62.5" stroke="#F9F8F5" stroke-width="1.5"/>
-  <text x="90" y="46" font-family="Georgia, 'Shippori Mincho', serif" font-size="27" font-weight="700" letter-spacing="1.5" fill="#1A1D26">KALAM</text>
-  <text x="212" y="46" font-family="Georgia, serif" font-size="27" font-style="italic" fill="#C1452F">&amp;</text>
-  <text x="238" y="46" font-family="Georgia, 'Shippori Mincho', serif" font-size="27" font-weight="700" letter-spacing="1.5" fill="#1A1D26">KAMI</text>
-  <path d="M90 58 L330 58" stroke="#E3E0D8" stroke-width="1"/>
-  <text x="90" y="74" font-family="'IBM Plex Mono', monospace" font-size="10.5" letter-spacing="2.6" fill="#7C8090">JAPANESE STATIONERY · DHAKA</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 96" role="img" aria-label="inku — Japanese stationery, Dhaka">
+  <circle cx="40" cy="44" r="23" fill="none" stroke="#2B3A67" stroke-width="2.6"/>
+  <path d="M40 27 L52 44.5 L46 61 L34 61 L28 44.5 Z" fill="#2B3A67"/>
+  <circle cx="40" cy="41" r="3.8" fill="#F9F8F5"/>
+  <path d="M40 45.4 L40 61" stroke="#F9F8F5" stroke-width="1.4"/>
+  <text x="82" y="54" font-family="Georgia, 'Shippori Mincho', serif" font-size="40" letter-spacing="5" fill="#1A1D26">inku</text>
+  <path d="M84 68 L268 68" stroke="#E3E0D8" stroke-width="1"/>
+  <text x="84" y="83" font-family="'IBM Plex Mono', monospace" font-size="9.5" letter-spacing="2.8" fill="#7C8090">JAPANESE STATIONERY · DHAKA</text>
 </svg>
